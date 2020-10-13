@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/commathprj/static/css/main.5f361e03.chunk.css",
-    "main.js": "/commathprj/static/js/main.786b0e3c.chunk.js",
-    "main.js.map": "/commathprj/static/js/main.786b0e3c.chunk.js.map",
-    "runtime-main.js": "/commathprj/static/js/runtime-main.41a99890.js",
-    "runtime-main.js.map": "/commathprj/static/js/runtime-main.41a99890.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/commathprj/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.12fee346.chunk.js": "/commathprj/static/js/2.12fee346.chunk.js",
-    "static/js/2.12fee346.chunk.js.map": "/commathprj/static/js/2.12fee346.chunk.js.map",
-    "index.html": "/commathprj/index.html",
-    "precache-manifest.7e0ea9edacbe0bb508a3530ce72517f6.js": "/commathprj/precache-manifest.7e0ea9edacbe0bb508a3530ce72517f6.js",
-    "service-worker.js": "/commathprj/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/commathprj/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/commathprj/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.12fee346.chunk.js.LICENSE.txt": "/commathprj/static/js/2.12fee346.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/commathprj/static/media/logo.5d5d9eef.svg"
+    "main.css": "/commathprj/front/static/css/main.5f361e03.chunk.css",
+    "main.js": "/commathprj/front/static/js/main.3d3d0271.chunk.js",
+    "main.js.map": "/commathprj/front/static/js/main.3d3d0271.chunk.js.map",
+    "runtime-main.js": "/commathprj/front/static/js/runtime-main.b25e8b2b.js",
+    "runtime-main.js.map": "/commathprj/front/static/js/runtime-main.b25e8b2b.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/commathprj/front/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.12fee346.chunk.js": "/commathprj/front/static/js/2.12fee346.chunk.js",
+    "static/js/2.12fee346.chunk.js.map": "/commathprj/front/static/js/2.12fee346.chunk.js.map",
+    "index.html": "/commathprj/front/index.html",
+    "precache-manifest.5929bf82d49b64b21874199164009bc9.js": "/commathprj/front/precache-manifest.5929bf82d49b64b21874199164009bc9.js",
+    "service-worker.js": "/commathprj/front/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/commathprj/front/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/commathprj/front/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.12fee346.chunk.js.LICENSE.txt": "/commathprj/front/static/js/2.12fee346.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/commathprj/front/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41a99890.js",
+    "static/js/runtime-main.b25e8b2b.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.12fee346.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.786b0e3c.chunk.js"
+    "static/js/main.3d3d0271.chunk.js"
   ]
 }
